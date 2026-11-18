@@ -1,0 +1,11 @@
+# Local system / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local Vercel CLI config
+.vercel/
+
+# Misc local build artifacts
+node_modules/
